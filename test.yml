@@ -1,0 +1,5 @@
+---
+- hosts: all
+  tasks:
+    - name : rest api test
+      command: id:
